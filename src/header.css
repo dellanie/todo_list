@@ -1,0 +1,12 @@
+.header{
+    display: flex;
+    flex: 0.3;
+    align-items: center;
+    justify-content: center;
+    
+}
+.header_2{
+    display: flex;
+    margin-left: 10px;
+    padding-top: 10px;
+}

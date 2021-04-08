@@ -1,0 +1,15 @@
+.body{
+    display: flex;
+    align-items: center;
+}
+.body_head{
+    display: flex;
+    justify-content: center;
+}
+
+.body_input{
+    align-items: center;
+    margin-left: 20px;
+    size: 50%;
+}
+
